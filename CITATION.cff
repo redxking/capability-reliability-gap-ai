@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the working paper."
+type: report
+title: "The Capability–Reliability Gap in Artificial Intelligence: An Evidence-Graded Review, Maturity Framework, and Research Agenda, 2020–2026"
+repository-code: "https://github.com/redxking/capability-reliability-gap-ai"
+authors:
+  - family-names: Pseftis
+    given-names: Angelis
+abstract: >-
+  This evidence-graded integrative review examines the asymmetry between
+  demonstrated artificial-intelligence capability and public evidence for
+  dependable operation. It proposes separate capability and assurance maturity
+  axes, benchmark-validity criteria, an evidence-graded domain assessment, and
+  a prioritized research agenda.
+keywords:
+  - artificial intelligence
+  - AI evaluation
+  - foundation models
+  - operational reliability
+  - AI assurance
+  - technology forecasting
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Pseftis
+      given-names: Angelis
+  title: "The Capability–Reliability Gap in Artificial Intelligence: An Evidence-Graded Review, Maturity Framework, and Research Agenda, 2020–2026"
+  year: 2026

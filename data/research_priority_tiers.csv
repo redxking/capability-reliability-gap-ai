@@ -1,0 +1,15 @@
+tier,research_or_engineering_gap,difficulty,rationale,assessment_status
+I,Runtime verification and constrained autonomy,High,"Converts some model proposals into bounded, testable, and rejectable actions",Author-proposed qualitative tier; unvalidated
+I,High-reliability long-horizon execution,Very high,Determines whether systems can complete consequential workflows rather than isolated tasks,Author-proposed qualitative tier; unvalidated
+I,"Dynamic, adversarial, and field-based evaluation",High,"Tests operational transfer, side effects, and recovery beyond static benchmarks",Author-proposed qualitative tier; unvalidated
+I,"Agent identity, authorization, and containment",High,Limits authority and blast radius as tool-using systems scale,Author-proposed qualitative tier; unvalidated
+I,"OOD robustness, calibration, and abstention",Very high,Addresses systematic failure under environmental change,Author-proposed qualitative tier; unvalidated
+I,Incident learning and reliability-data infrastructure,High,"Enables evidence about rare failures, near misses, and control performance",Author-proposed qualitative tier; unvalidated
+II,Data provenance and contamination-resistant evaluation,High,"Protects the validity of training, benchmarking, and factual outputs",Author-proposed qualitative tier; unvalidated
+II,Interpretability tied to assurance decisions,Very high,Could reveal mechanisms and policies that behavioral testing misses,Author-proposed qualitative tier; unvalidated
+II,Causal and world-model grounding,Very high,"Supports intervention, science, planning, and physical reasoning under explicit assumptions",Author-proposed qualitative tier; unvalidated
+II,Persistent memory and continual learning with control,Very high,Supports long-lived systems without silent drift or corrupted state,Author-proposed qualitative tier; unvalidated
+II,Independent evaluation access and reproducibility,High,Reduces dependence on developer self-evaluation,Author-proposed qualitative tier; unvalidated
+III,"Efficiency, energy, and resilient AI infrastructure",High,"Determines affordability, scale, and strategic resilience",Author-proposed qualitative tier; unvalidated
+III,Human-AI team design and supervisory capacity,High,"Oversight can fail under excessive workload, speed, or authority",Author-proposed qualitative tier; unvalidated
+III,"Version-aware governance, acquisition, and standards",High,Aligns evidence and controls with continuously changing systems,Author-proposed qualitative tier; unvalidated

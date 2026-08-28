@@ -1,0 +1,16 @@
+capability_context,capability_level,assurance_level,evidence_boundary,principal_limitation,assessment_status
+Routine text drafting and transformation with accountable review,C3-C4,A2-A3,Scaled use and reversible review workflows,Accuracy remains task- and reviewer-dependent,Unvalidated author assessment
+Retrieval-assisted enterprise question answering over governed sources,C3,A2,"Utility depends on retrieval quality, citation checking, access control, and corpus governance",Evidence remains implementation-specific,Unvalidated author assessment
+High-stakes open-ended advice without independent verification,C3,A1,Fluent generation does not establish factual or causal reliability,No complete general verifier identified in this review,Unvalidated author assessment
+Speech transcription in specified languages and acoustic conditions,C4,A2-A3,Strong bounded performance,"Shift, speaker, privacy, and record-integrity limits remain",Unvalidated author assessment
+Code completion and bounded implementation assistance,C3-C4,A2-A3,Utility in selected tasks when tests and review are available,Security and maintainability vary,Unvalidated author assessment
+Autonomous repository maintenance across unfamiliar codebases,C2-C3,A1-A2,Benchmark progress is material,"Task validity, tail behavior, and operational acceptance remain limited",Unvalidated author assessment
+Short digital workflows in controlled applications,C3,A2,Repeatable successes are configuration- and interface-dependent,Side effects and recovery must be measured,Unvalidated author assessment
+Open-ended multi-day digital agency with privileged tools,C2,A1,Public evidence does not establish high-reliability contained operation,Authority and horizon materially change the risk,Unvalidated author assessment
+Document and image analysis with human confirmation,C3-C4,A2,Bounded utility with human confirmation,"Grounding, privacy, and distribution-shift risks remain",Unvalidated author assessment
+Scientific candidate generation with an exact formal or experimental verifier,C3-C4,A2-A3,Strong selected-domain evidence,Verifier and experimental pipeline define the boundary,Unvalidated author assessment
+Open-ended autonomous scientific research,C1-C2,A1,Demonstrations do not establish dependable end-to-end research autonomy,No broad operational evidence identified,Unvalidated author assessment
+Foundation-model addition to an otherwise structured industrial cell,C1-C2,A1,Conventional robot-cell assurance does not transfer automatically to the learned component,Separate hazard analysis and validation required,Unvalidated author assessment
+General-purpose robotics in unstructured environments,C2,A1,Demonstrated transfer remains bounded,Physical reliability evidence is limited,Unvalidated author assessment
+Named automated-driving system inside a specified operational design domain,C4,A3,Substantial field evidence can support a bounded claim,"System, geography, weather, exposure, and governance matter",Unvalidated author assessment
+Autonomous cyber actions on production systems,C2,A1,Capability is material,Adversarial uncertainty and side effects limit assurance,Unvalidated author assessment

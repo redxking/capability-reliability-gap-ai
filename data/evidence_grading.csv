@@ -1,0 +1,7 @@
+grade,description,typical_evidence,permitted_interpretation
+E0,Unsupported or nontraceable,"Marketing assertion, unattributed number, unverifiable anecdote",Exclude from substantive conclusions
+E1,Preliminary or interested-party evidence,"Developer-reported evaluation, preprint without independent replication, single case",Report only under the stated conditions and source interest
+E2,Credible primary or single-source empirical evidence,"Peer-reviewed study, independent evaluation, official record, reproducible benchmark paper, auditable derivation",Supports a bounded claim with explicit limitations
+E3,Convergent independent evidence,"Multiple independent studies, repeated benchmark families, cross-method agreement",Supports a general pattern within defined conditions
+E4,Sustained operational evidence,"Scaled field data, repeated outcomes, mature incident and change controls",Supports an operational claim only within the documented design domain
+N/A,Not an empirical evidence claim,"Legal or standards status, formal derivation, author proposal, analytical judgment, recommendation, conditional scenario",Identify the basis and do not invent an empirical grade

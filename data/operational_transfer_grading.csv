@@ -1,0 +1,7 @@
+grade,evaluation_context,transfer_implication
+T0,"Toy, synthetic, or poorly specified task",Little direct evidence about real use
+T1,Static benchmark or controlled laboratory task,Evidence of task competence under the test distribution
+T2,Realistic controlled workflow or field pilot,Moderate evidence for a bounded operational process
+T3,Scaled operation in a defined domain,Strong evidence for that domain and configuration but not unrestricted use
+T4,High-consequence operation with audited assurance evidence,Evidence appropriate to one specified assurance claim
+N/A,"Legal status, formal derivation, author proposal, recommendation, or scenario",Operational transfer grade is not applicable
